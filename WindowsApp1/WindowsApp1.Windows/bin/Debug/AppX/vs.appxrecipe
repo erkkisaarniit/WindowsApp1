@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERKKIMACWINDOWS</Machine>
+    <WindowsUser>Erkki</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>612ccbc7-efb2-4e27-a046-45e812e6dc2f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CB98B2C9488D4C996AC3476B5E6833A9698A9231E7E45780206E8E2EAE2AAD59</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>612ccbc7-efb2-4e27-a046-45e812e6dc2f_1.0.0.0_neutral__7t6y5xb8v6bt0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>612ccbc7-efb2-4e27-a046-45e812e6dc2f_7t6y5xb8v6bt0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>612ccbc7-efb2-4e27-a046-45e812e6dc2f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Erkki</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-07T22:55:46.762</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\bin\Debug\WindowsApp1.Windows.exe">
+      <PackagePath>WindowsApp1.Windows.exe</PackagePath>
+      <Modified>2015-03-07T23:39:16.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-07T23:37:50.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-07T23:39:16.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\bin\Debug\WindowsApp1.Windows.xr.xml">
+      <PackagePath>WindowsApp1.Windows.xr.xml</PackagePath>
+      <Modified>2015-03-07T23:38:31.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erkki\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\WindowsApp1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-07T22:55:46.599</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
